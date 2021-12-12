@@ -1,0 +1,9 @@
+server:
+  port: 2120
+
+spring:
+  data:
+    mongodb:
+      database: STUDENT
+      host: localhost
+      port: 27017
